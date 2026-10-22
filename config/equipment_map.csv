@@ -1,0 +1,26 @@
+matrix_equipment,compass_item
+C-MVS,Medium Voltage Switchgear (MVS)
+EY-MVS,Medium Voltage Switchgear (MVS)
+Sup Generators,Support Generator 800kW - T2 (GEN)
+Sup A Power Skid,Support Power Skid (SKID)
+Sup B Power Skid,Support Power Skid (SKID)
+Sup A DB,Main Distribution Panel Support A (MDP)
+Sup B MDB,Main Distribution Panel Support B (MDP)
+Sup A Gen Cable Bus,Cablebus
+Gen + PC Cable Bus,Cablebus
+RMU + PC Cable Bus,Cablebus
+Generators,Generator 2MW - T2 (GEN)
+RMU,Transformer Ring Main Unit Skid (RMU)
+PC,PowerCenter (PC)
+PC-AC (Bards),Power Center 6 Ton AC Unit (AC)
+UPS,Uninterruptible Power Supply 100kW (UPS)
+PDU,Power Distribution Unit (PDU)
+HCU,Hybrid Cooling Unit (HCU)
+CDU,Cooling Distribution Unit (CDU)
+FWS Skid A,FWS Skid A (FWSK)
+FWS Skid B,FWS Skid B (FWSK)
+FWS Pipe Racks,Facility Water System Pipe Rack (FWS)
+FWS Pipe Rack Haunches,Facility Water System Pipe Rack (FWS)
+TCS Pipe Rack,Technology Cooling System Pipe Rack (TCS)
+TCS Haunches,Technology Cooling System Pipe Rack (TCS)
+Plenums,Plenum

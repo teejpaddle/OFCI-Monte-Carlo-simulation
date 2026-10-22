@@ -1,0 +1,21 @@
+{
+  "matrix_sheet": "2. OFCI Matrix",
+  "compass_sheet": "3.Compass Supply Chain_raw data",
+  "as_of": null,
+  "iterations": 10000,
+  "seed": 20261022,
+  "chunk_size": 1000,
+  "percentiles": [10, 50, 80, 90],
+  "contingency_percentile": 80,
+  "management_reserve_percentile": 90,
+  "block_weeks": 4,
+  "unit_scatter_share": 0.15,
+  "event_fraction_threshold": 0.5,
+  "max_valid_redate_days": 365,
+  "prior_weeks_strength": 10,
+  "magnitude_pool_strength": 5,
+  "vendor_event_correlation": null,
+  "building_hit_probability": null,
+  "risk_rating_thresholds": {"Critical": 0.8, "High": 0.5, "Medium": 0.2},
+  "backtest_from": "2026-04-29"
+}

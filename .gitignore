@@ -1,0 +1,15 @@
+# Project data and results - never commit (public repository)
+outputs/
+*.xlsx
+*.xlsm
+*.xls
+*.csv.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# OS
+.DS_Store
